@@ -23,16 +23,16 @@ Das Repository gliedert sich in die zwei Phasen des Austauschs: die erhaltenen V
 
 ```text
 Projektaustausch-Lieferdienst/
-├── Erhaltenen Dokumente/          # Zur Verfügung gestellte Spezifikationen & Modelle
+├── Erhaltenen Dokumente/               # Zur Verfügung gestellte Spezifikationen & Modelle
 │   ├── Aufgabenstellung_PizzaFlow.pdf
 │   ├── Klassendiagramme.png
 │   ├── PizzaSystem-Aktivitäten.jpg
 │   ├── PizzaSystem-Use Case.jpg
 │   └── PizzaSystem-Zustands.jpg
 │
-└── Umgesetzter code/              # Implementierung basierend auf den Vorgaben
-    ├── klassen.py                 # Klassenstruktur gemäß Klassendiagramm
-    └── main.py                    # Programmablauf / Logiksteuerung
+└── Umgesetzter code/                   # Implementierung basierend auf den Vorgaben
+    ├── klassen.py                      # Klassenstruktur gemäß Klassendiagramm
+    └── main.py                         # Programmablauf / Logiksteuerung
 ```
 
 ---
