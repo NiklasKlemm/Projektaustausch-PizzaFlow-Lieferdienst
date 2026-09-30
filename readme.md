@@ -46,12 +46,3 @@ Projektaustausch-Lieferdienst/
   - Geschäftsprozessmodellierung & UML-Compliance
 
 ---
-
-## 🚀 Ausführung
-
-Um das Programm lokal auszuführen, navigiere in das Verzeichnis mit dem Quellcode:
-
-```bash
-cd "Umgesetzter code"
-python main.py
-```
